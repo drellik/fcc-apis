@@ -1,0 +1,22 @@
+{
+  "name": "programs",
+  "version": "1.0.0",
+  "description": "api programs for free code camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drellik/fcc-apis.git"
+  },
+  "author": "Patrick McClellan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drellik/fcc-apis/issues"
+  },
+  "homepage": "https://github.com/drellik/fcc-apis#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
